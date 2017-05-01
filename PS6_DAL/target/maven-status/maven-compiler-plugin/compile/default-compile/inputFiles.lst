@@ -1,0 +1,6 @@
+/home/geoffrey/git/PS6Starter/PS6_DAL/src/main/java/base/PersonDAL.java
+/home/geoffrey/git/PS6Starter/PS6_DAL/src/main/java/domain/PersonDomainModel.java
+/home/geoffrey/git/PS6Starter/PS6_DAL/src/main/java/base/StudentDAL.java
+/home/geoffrey/git/PS6Starter/PS6_DAL/src/main/java/util/HibernateUtil.java
+/home/geoffrey/git/PS6Starter/PS6_DAL/src/main/java/util/LocalDateAdapter.java
+/home/geoffrey/git/PS6Starter/PS6_DAL/src/main/java/domain/StudentDomainModel.java
